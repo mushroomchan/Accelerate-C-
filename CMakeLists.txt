@@ -4,4 +4,4 @@ project(Accelerate_Cpp)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(Accelerate_Cpp
-    hello_world.cpp)
+        hello_world.cpp)
