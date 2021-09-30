@@ -7,3 +7,5 @@ A repo for  exercise in &lt;accelerate C++>
 26/09 : finished chapter 1
 
 27/09 : finished chapter 2
+
+30/09 : finished chapter 3

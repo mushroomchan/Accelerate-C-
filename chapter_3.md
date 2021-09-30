@@ -1,6 +1,6 @@
 # Chapter 3 exercise
 
-ddchen @ Beijing, 29/09/2021
+ddchen @ Beijing, 30/09/2021
 
 ### 3-0
 
@@ -18,13 +18,13 @@ See ./divide_set_into_4_equal_parts.cpp and ./divide_set_into_4_equal_parts.
 
 ### 3-3
 
-
+See ./word_count.cpp and ./word_count.
 
 ### 3-4
 
-
+See ./record_shortest_and_longest_str.cpp and  ./record_shortest_and_longest_str.
 
 ### 3-5
 
-
+See ./Students_grades/v1_for_chapter3.cpp and ./Students_grades/v1_for_chapter3.
 
