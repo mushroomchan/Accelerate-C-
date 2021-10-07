@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chendongdong/Accelerate-Cpp/Students_grades/Student_info.h
+iostream
+-
+string
+-
+vector
+-
+
+/Users/chendongdong/Accelerate-Cpp/Students_grades/grade.h
+vector
+-
+Student_info.h
+/Users/chendongdong/Accelerate-Cpp/Students_grades/Student_info.h
+
+/Users/chendongdong/Accelerate-Cpp/Students_grades/main.cpp
+algorithm
+-
+iomanip
+-
+ios
+-
+iostream
+-
+stdexcept
+-
+string
+-
+vector
+-
+grade.h
+/Users/chendongdong/Accelerate-Cpp/Students_grades/grade.h
+Student_info.h
+/Users/chendongdong/Accelerate-Cpp/Students_grades/Student_info.h
+
