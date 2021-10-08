@@ -32,15 +32,23 @@ Hint: cout<<fixed<<setprecision(n), make cout keep n number after point.
 
 See ./word_count_v2.cpp and ./word_count_v2.
 
+TODO: waiting for finishing
+
 ### 4-6
 
-
+TODO: rewrite or add new one ?
 
 ### 4-7
 
+See ./averange_cout.cpp and ./averange_cout.
+
 ### 4-8
 
+vector<double>
+
 ### 4-9
+
+See ./Students_grades/main #34~37.
 
 
 

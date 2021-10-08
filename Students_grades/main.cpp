@@ -31,6 +31,10 @@ int main()
     for(vector<Student_info>::size_type i = 0; i!=students.size(); ++i)
     {
         cout<< setw(maxlen+1)<<students[i].name;
+        // 4.9
+        // int len = students[i].name.size();
+        // string space(maxlen+1-len,' ');
+        // cout<< students[i].name<<space;
 
         try{
             double final_grade = grade(students[i]);
