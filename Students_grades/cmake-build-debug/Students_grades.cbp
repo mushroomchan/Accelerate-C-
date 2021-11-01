@@ -88,6 +88,9 @@
 		<Unit filename="/Users/chendongdong/Accelerate-Cpp/Students_grades/Student_info.h">
 			<Option target="Students_grades"/>
 		</Unit>
+		<Unit filename="/Users/chendongdong/Accelerate-Cpp/Students_grades/extract_fgrade.cpp">
+			<Option target="Students_grades"/>
+		</Unit>
 		<Unit filename="/Users/chendongdong/Accelerate-Cpp/Students_grades/grade.cpp">
 			<Option target="Students_grades"/>
 		</Unit>

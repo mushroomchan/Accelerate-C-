@@ -12,4 +12,5 @@ add_executable(Students_grades
         median.cpp
         median.h
         Student_info.cpp
-        Student_info.h)
+        Student_info.h
+        extract_fgrade.cpp)

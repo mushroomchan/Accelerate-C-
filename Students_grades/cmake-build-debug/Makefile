@@ -153,6 +153,30 @@ Student_info.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Students_grades.dir/build.make CMakeFiles/Students_grades.dir/Student_info.cpp.s
 .PHONY : Student_info.cpp.s
 
+extract_fgrade.o: extract_fgrade.cpp.o
+.PHONY : extract_fgrade.o
+
+# target to build an object file
+extract_fgrade.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Students_grades.dir/build.make CMakeFiles/Students_grades.dir/extract_fgrade.cpp.o
+.PHONY : extract_fgrade.cpp.o
+
+extract_fgrade.i: extract_fgrade.cpp.i
+.PHONY : extract_fgrade.i
+
+# target to preprocess a source file
+extract_fgrade.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Students_grades.dir/build.make CMakeFiles/Students_grades.dir/extract_fgrade.cpp.i
+.PHONY : extract_fgrade.cpp.i
+
+extract_fgrade.s: extract_fgrade.cpp.s
+.PHONY : extract_fgrade.s
+
+# target to generate assembly for a file
+extract_fgrade.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Students_grades.dir/build.make CMakeFiles/Students_grades.dir/extract_fgrade.cpp.s
+.PHONY : extract_fgrade.cpp.s
+
 grade.o: grade.cpp.o
 .PHONY : grade.o
 
@@ -237,6 +261,9 @@ help:
 	@echo "... Student_info.o"
 	@echo "... Student_info.i"
 	@echo "... Student_info.s"
+	@echo "... extract_fgrade.o"
+	@echo "... extract_fgrade.i"
+	@echo "... extract_fgrade.s"
 	@echo "... grade.o"
 	@echo "... grade.i"
 	@echo "... grade.s"
